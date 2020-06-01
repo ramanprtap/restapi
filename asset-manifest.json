@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ramanprtap/weather-demo/static/css/main.15cfaa6d.chunk.css",
+    "main.js": "/ramanprtap/weather-demo/static/js/main.7ba1014c.chunk.js",
+    "main.js.map": "/ramanprtap/weather-demo/static/js/main.7ba1014c.chunk.js.map",
+    "runtime-main.js": "/ramanprtap/weather-demo/static/js/runtime-main.d343fbf2.js",
+    "runtime-main.js.map": "/ramanprtap/weather-demo/static/js/runtime-main.d343fbf2.js.map",
+    "static/js/2.a4fb13ee.chunk.js": "/ramanprtap/weather-demo/static/js/2.a4fb13ee.chunk.js",
+    "static/js/2.a4fb13ee.chunk.js.map": "/ramanprtap/weather-demo/static/js/2.a4fb13ee.chunk.js.map",
+    "index.html": "/ramanprtap/weather-demo/index.html",
+    "precache-manifest.c55af8a549c64854e6526fb46ca0dd95.js": "/ramanprtap/weather-demo/precache-manifest.c55af8a549c64854e6526fb46ca0dd95.js",
+    "service-worker.js": "/ramanprtap/weather-demo/service-worker.js",
+    "static/css/main.15cfaa6d.chunk.css.map": "/ramanprtap/weather-demo/static/css/main.15cfaa6d.chunk.css.map",
+    "static/js/2.a4fb13ee.chunk.js.LICENSE.txt": "/ramanprtap/weather-demo/static/js/2.a4fb13ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ramanprtap/weather-demo/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d343fbf2.js",
+    "static/js/2.a4fb13ee.chunk.js",
+    "static/css/main.15cfaa6d.chunk.css",
+    "static/js/main.7ba1014c.chunk.js"
+  ]
+}
